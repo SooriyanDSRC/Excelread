@@ -1,0 +1,19 @@
+.alert_component_css {
+    opacity: 1;
+    animation: fade 2s linear;
+}
+
+@keyframes fade {
+  0% { opacity: 0 }
+  10% { opacity: 1 }
+}
+.container.spreadsheet {
+    width: 100% !important;
+    height: 400px !important;
+    border: 1px solid lightgray !important;
+    padding-right: 0;
+    padding-left: 0;
+}
+.m-10{
+    margin-top: 10px;
+}
