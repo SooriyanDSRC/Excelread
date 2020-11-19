@@ -17,3 +17,8 @@
 .m-10{
     margin-top: 10px;
 }
+.excel_component{
+    width:auto;
+    height:500px;
+    overflow: scroll;
+}
